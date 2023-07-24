@@ -44,7 +44,7 @@
     },
     {
       "group": "Organization Management",
-      "pages": ["createorg", "addmembers", "admins", "managebalance", "subgroups"]
+      "pages": ["create-org", "add-members", "admins", "manage-balance", "subgroups"]
     },
     {
       "group": "API Documentation",
