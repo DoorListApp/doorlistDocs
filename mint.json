@@ -43,8 +43,8 @@
       "pages": ["introduction", "quickstart", "development"]
     },
     {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "group": "Organization Management",
+      "pages": ["createorg", "addmembers", "admins", "managebalance", "subgroups"]
     },
     {
       "group": "API Documentation",
