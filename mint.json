@@ -48,7 +48,7 @@
     },
     {
       "group": "Event Management",
-      "pages": ["create-event", "add-members-event", "delete-event", "change-time", "capacity", "duplicate", "allocate", "pair-events", "scanner"]
+      "pages": ["create-event", "add-members-event", "paid-events", "delete-event", "change-time", "capacity", "duplicate", "allocate", "pair-events", "scanner"]
     },
     {
       "group": "Endpoint Examples",
