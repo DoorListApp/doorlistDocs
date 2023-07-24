@@ -44,11 +44,11 @@
     },
     {
       "group": "Organization Management",
-      "pages": ["create-org", "add-members", "admins", "manage-balance", "subgroups"]
+      "pages": ["create-org", "add-members", "admins","subgroups"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
+      "group": "Event Management",
+      "pages": ["create-event", "add-members-event", "delete-event", "change-time", "capacity", "duplicate", "allocate", "pair-events", "scanner"]
     },
     {
       "group": "Endpoint Examples",
