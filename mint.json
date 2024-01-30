@@ -29,10 +29,6 @@
     "url": "https://www.doorlist.app"
   },
   "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
   ],
   "anchors": [
     
