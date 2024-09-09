@@ -47,9 +47,9 @@
       "pages": ["create-event", "add-members-event", "paid-events", "delete-event", "change-time", "capacity", "duplicate", "allocate", "pair-events", "scanner"]
     },
     {
-     "group": "DoorList Plus",
-     "pages": ["aboutDL+", "howtobuy", "features"]
-    },
+      "group": "Communications",
+      "pages": ["groupchats"]
+    }
     {
       "group": "Endpoint Examples",
       "pages": [
