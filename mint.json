@@ -49,7 +49,7 @@
     {
       "group": "Communications",
       "pages": ["groupchats","event-chats","sending-events","venmo-requests","chat-settings"]
-    }
+    },
     {
       "group": "Endpoint Examples",
       "pages": [
