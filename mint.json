@@ -49,6 +49,9 @@
     {
       "group": "Communications",
       "pages": ["groupchats","event-chats","sending-events","venmo-requests","chat-settings"]
+    },{
+      "group": "Other",
+      "pages": ["Scramble"]
     },
     {
       "group": "Endpoint Examples",
@@ -62,6 +65,7 @@
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/doorlist_app",
+    "instagram": "https://www.instagram.com/doorlist.app/",
     "linkedin": "https://www.linkedin.com/company/doorlist"
   }
 }
