@@ -48,7 +48,7 @@
     },
     {
       "group": "Communications",
-      "pages": ["groupchats","event-chats","text-blasts","sending-events","venmo-requests","chat-settings"]
+      "pages": ["groupchats","event-chats","text-blasts","venmo-requests","chat-settings"]
     },{
       "group": "Other",
       "pages": ["scramble"]
