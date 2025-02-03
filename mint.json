@@ -44,7 +44,7 @@
     },
     {
       "group": "Event Management",
-      "pages": ["create-event", "invite", "add-members-event","edit-event", "paid-events", "RSVPs", "duplicate", "scanner"]
+      "pages": ["create-event", "invite", "add-members-event","edit-event","RSVPs","analytics", "paid-events", "duplicate", "scanner"]
     },
     {
       "group": "Communications",
