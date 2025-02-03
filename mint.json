@@ -40,7 +40,7 @@
     },
     {
       "group": "Group Management",
-      "pages": ["create-group", "add-members", "admins", "connections","subgroups"]
+      "pages": ["create-group", "add-members","join-group", "admins", "connections","subgroups"]
     },
     {
       "group": "Event Management",
