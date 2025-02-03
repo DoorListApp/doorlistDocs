@@ -39,12 +39,12 @@
       "pages": ["introduction", "quickstart", "development"]
     },
     {
-      "group": "Organization Management",
-      "pages": ["create-org", "add-members", "admins","subgroups"]
+      "group": "Group Management",
+      "pages": ["create-group", "add-members", "admins", "connections","subgroups"]
     },
     {
       "group": "Event Management",
-      "pages": ["create-event", "add-members-event", "paid-events", "delete-event", "change-time", "capacity", "duplicate", "allocate", "pair-events", "scanner", "connections"]
+      "pages": ["create-event", "add-members-event", "paid-events", "delete-event", "change-time", "capacity", "duplicate", "invite", "pair-events", "scanner"]
     },
     {
       "group": "Communications",
