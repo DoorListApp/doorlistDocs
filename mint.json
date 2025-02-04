@@ -51,7 +51,7 @@
       "pages": ["groupchats","event-chats","text-blasts","chat-settings", "venmo-request"]
     },{
       "group": "Other",
-      "pages": ["scramble"]
+      "pages": ["explore","scramble"]
     },
     {
       "group": "Endpoint Examples",
