@@ -4,22 +4,18 @@ description: "How to edit the details of your event"
 ---
 
 1. Tap on event tile
-
 2. Tap "..." in the top right
-
 3. Tap "Edit Event"
-
 4. Make desired changes
-
 5. Tap "Save" in the top right
 
 <AccordionGroup>
-  <Accordion title="Basics" defaultOpen={false}>
-    Basic event details including *Event Name, Host, Date & Time, Link Settings, Location, Description, Price, Links, Visibility, and Repeat* can be edited when creating an event or after creating an event.
+  <Accordion title="Basics" defaultOpen="false">
+    Basic event details including _Event Name, Host, Date & Time, Link Settings, Location, Description, Price, Links, Visibility, and Repeat_ can be edited when creating an event or after creating an event.
 
     **Event Name:** Title of event visible to guests.
 
-    **Host:** Group or Person hosting the event. The host(s) will be able to edit the event, the guest list, and more. Hosting as a group will also give your members access to additional features including the ability to request +1s.
+    **Host:** Group or Person hosting the event. The host(s) will be able to edit the event, the guest list, and more. Hosting as a group will also give your members access to additional features including the ability to request \+1s.
 
     **Date & Time:** When your event takes place.
 
@@ -29,76 +25,63 @@ description: "How to edit the details of your event"
 
     **Description:** Opportunity to provide guests with important information for the event.
 
-    **Price:** Whether the event requires paid tickets.
+    **Price:** Whether the event requires paid tickets (access to tiers, discount codes, payment methods, etc.)
 
-    **Links:** Link performers and other relevant sites.
+    **Links:** Link performers, your Venmo account, social media sites, and or other relevant sites.
 
-    **Explore Page:** Elect to promote your event on your campus's explore page.
+    **Show to My Campus:** Elect to promote your event on people at your school's feed.
 
     **Repeat:** Make an event recurring.
   </Accordion>
-
-  <Accordion title="Advanced Settings" defaultOpen={false}>
+  <Accordion title="Advanced Settings" defaultOpen="false">
     <AccordionGroup>
-      <Accordion title="Guest List" defaultOpen={false}>
+      <Accordion title="Guest List" defaultOpen="false">
         **Enable Join Code:** The join code is an 8 character code you can provide to guests for them to join your guest list
 
-        **Max. Capacity:** Max. capacity limits the size of your guest list.
+        **Max. Capacity:** Max. capacity limits the size of your guest list (NOTE: RSVPs are not related to Capacity)
 
-        **+1 Requests:** Ability of guests in the hosting group to request +1s
+        **\+1 Requests:** Ability of guests in the hosting group to request \+1s
 
-        **+1's Invite Cutoff Time:** Whether +1s must be used before a certain time
+        **\+1's Invite Cutoff Time:** Whether \+1s must be used before a certain time
 
-        **Guest List Visibility:** Whether hosts, the hosting group, or everyone can see the full guests list
+        **Guests can RSVP:** If disabled, guests will not be able to RSVP or see the RSVP status of other guests
 
         **Event Visibility to Friends:** Whether guests' friends can see this event in their profile and explore page
       </Accordion>
-
-      <Accordion title="Check-In Options" defaultOpen={false}>
+      <Accordion title="Check-In Options" defaultOpen="false">
         **Door Security Permissions**
 
-        * **Active Scanners:** see how many people are scanning for your event
-
-        * **Hide Scan Count from Security:** When enabled, security will not be able to see the current number of people in the event and the total capacity
-
-        * **Hide Guest List from Security:** When enabled, security will not be able to see the guest list but can still scan guests in
+        - **Active Scanners:** see how many people are scanning for your event
+        - **Hide Scan Count from Security:** When enabled, security will not be able to see the current number of people in the event and the total capacity
+        - **Hide Guest List from Security:** When enabled, security will not be able to see the guest list but can still scan guests in
 
         **Who can scan in?**
 
-        * **List Only:** only people on the guest list can scan in
-
-        * **Students on List:** only students who have verified their school email and are on the guest list can scan in
-
-        * **Students Only:** only students who have verified their school email can scan in
-
-        * **Anyone:** anyone on DoorList can scan in
+        - **Allowed Guests**
+          - **Anyone:** Anyone with a DoorList account can scan in
+            - NOTE: They must have a ticket if it's a paid event
+          - **Guest List Only:** Guests must be on the Guest List to scan in
+        - **Require Verified School Email:** If enabled, Guests must verify their school email
 
         **Location Based Check-In:** Guests will be able to check in at the event location
 
         **Website Attendance:** Guests can scan the QR code on the website (unique to each event) to check in
       </Accordion>
-
-      <Accordion title="Contact Hosts" defaultOpen={false}>
+      <Accordion title="Contact Hosts" defaultOpen="false">
         **Emergency Contact:** Designate a phone number to be the primary point of contact in the event there's an emergency
 
         Select what hosts can be messaged (on DoorList) if a guest taps "Contact Hosts"
       </Accordion>
-
-      <Accordion title="Paired Events" defaultOpen={false}>
-        Paired Events can be used for back to back events (for example, a mixer between 2 groups that becomes a larger social event.
-
-
+      <Accordion title="Paired Events" defaultOpen="false">
+        Paired Events can be used for back to back events (for example, a mixer between 2 groups that becomes a larger social event).
 
         Paired Events works by scanning the first event's list until the start of the second event, where then both event lists will be accepted by the scanner.
       </Accordion>
     </AccordionGroup>
   </Accordion>
-
-  <Accordion title="Delete Event" defaultOpen={false}>
+  <Accordion title="Delete Event" defaultOpen="false">
     1. Tap on event tile
-
     2. Tap "..." in the top right
-
     3. Tap "Delete Event"
   </Accordion>
 </AccordionGroup>

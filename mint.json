@@ -40,11 +40,11 @@
     },
     {
       "group": "Group Management",
-      "pages": ["create-group", "add-members","join-group", "admins", "connections","subgroups"]
+      "pages": ["create-group", "add-members","join-group", "admins", "connections","saved-lists"]
     },
     {
       "group": "Event Management",
-      "pages": ["create-event", "invite", "add-members-event","edit-event","RSVPs","analytics", "paid-events","sublist", "duplicate", "scanner"]
+      "pages": ["create-event", "invite", "add-members-event","edit-event","RSVPs","analytics", "paid-events","sublist", "scanner"]
     },
     {
       "group": "Communications",
